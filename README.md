@@ -6,7 +6,7 @@ Software Engineer & Designer
 
 * 🌍  I'm based in San Francisco, CA, United States
 * ✉️  You can contact me at [pamelachristina@mac.com](mailto:pamelachristina@mac.com)
-* 🧠  I'm learning Tensorflow
+* 🧠  I'm currently learning Tensorflow and Maya
 
 ### Skills
 
