@@ -8,7 +8,7 @@ Software Engineer & Designer
 * 🖥️  See my portfolio at [pamelachristina.github.io](http://pamelachristina.github.io/)
 * ✉️  You can contact me at [pamelachristina@mac.com](mailto:pamelachristina@mac.com)
 * 🚀  I'm currently working on [Target Lingo](http://xd.adobe.com/view/837513d4-5159-47d9-b44e-50283fb5fb4c-d626/)
-* 🧠  I'm learning Tensorflow and Maya
+* 🧠  I'm learning Python and Maya
 
 ### Skills
 
