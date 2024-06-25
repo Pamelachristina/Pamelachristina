@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer & Designer
 ----------------------------
 
-* 🌍  I'm based in San Francisco, CA, United States
+* 🌍  I'm based in Berkeley, CA United States
 * 🖥️  See my portfolio at [pamelachristina.github.io](http://pamelachristina.github.io/)
 * ✉️  You can contact me at [pamelachristina@mac.com](mailto:pamelachristina@mac.com)
 * 🚀  I'm currently working on [Target Lingo](http://xd.adobe.com/view/837513d4-5159-47d9-b44e-50283fb5fb4c-d626/)
