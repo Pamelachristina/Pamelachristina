@@ -5,7 +5,7 @@ Software Engineer & Designer
 ----------------------------
 
 * 🌍  I'm based in Berkeley, CA United States
-* 🖥️  See my portfolio at [pamelachristina.github.io](http://pamelachristina.github.io/)
+* 🖥️  See my portfolio at [🚧](???)
 * ✉️  You can contact me at [pamelachristina@mac.com](mailto:pamelachristina@mac.com)
 * 🚀  I'm currently working on [AfroVision](https://github.com/Pamelachristina/AfroVision)
 * 🧠  I'm learning Python and Maya
